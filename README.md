@@ -12,8 +12,7 @@ A Microsoft Windows® USB installation media preparer for GNU+Linux
 
 ## Dependencies
 
-> **NOTE:** na hora que mostro que o WoeUSB não pode ser instalado:
-         ** O WoeUSB não pode ser instalado pois depende de bibliotecas de outra distro Mas elas estão nos Links pra download
+> **NOTE:** na hora que mostro que o WoeUSB não pode ser instalado: O WoeUSB não pode ser instalado pois depende de bibliotecas de outra distro Mas elas estão nos Links pra download
 
 # Este é o primeiro, passo normal de instalação, e vai seguindo e instalando os outros
 * 1° ibjpeg-turbo:
