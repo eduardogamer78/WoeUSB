@@ -1,6 +1,6 @@
 # WoeUSB
 
-<https://github.com/WoeUSB/WoeUSB>
+https://github.com/WoeUSB/WoeUSB-ng
 
 A Microsoft Windows® USB installation media preparer for GNU+Linux
 
